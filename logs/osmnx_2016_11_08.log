@@ -1,0 +1,250 @@
+2016-11-08 10:27:00,240 INFO osmnx Configured osmnx
+2016-11-08 10:27:00,243 INFO osmnx Pausing 1.00 seconds before making API GET request
+2016-11-08 10:27:01,243 INFO osmnx Requesting https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Berkeley%2C+CA with timeout=30
+2016-11-08 10:27:01,807 INFO osmnx Downloaded 19.1KB from nominatim.openstreetmap.org in 0.56 seconds
+2016-11-08 10:27:01,811 INFO osmnx Saved response to cache file "cache/5f4f2fc7dd58ae961e494df80dbfeb50.json"
+2016-11-08 10:27:01,817 INFO osmnx Created GeoDataFrame with 1 row for query "Berkeley, CA"
+2016-11-08 10:27:01,830 INFO osmnx Projected the GeoDataFrame "Berkeley, CA" to UTM-10 in 0.01 seconds
+2016-11-08 10:27:18,188 INFO osmnx Configured osmnx
+2016-11-08 10:27:18,189 INFO osmnx Pausing 1.00 seconds before making API GET request
+2016-11-08 10:27:19,190 INFO osmnx Requesting https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Philadelphia%2C+PA with timeout=30
+2016-11-08 10:27:19,965 INFO osmnx Downloaded 59.5KB from nominatim.openstreetmap.org in 0.78 seconds
+2016-11-08 10:27:19,972 INFO osmnx Saved response to cache file "cache/53828f82f2e7534cb6626226e51c0106.json"
+2016-11-08 10:27:19,980 INFO osmnx Created GeoDataFrame with 1 row for query "Philadelphia, PA"
+2016-11-08 10:27:19,997 INFO osmnx Projected the GeoDataFrame "Philadelphia, PA" to UTM-18 in 0.02 seconds
+2016-11-08 10:27:40,727 INFO osmnx Configured osmnx
+2016-11-08 10:27:40,733 INFO osmnx Retrieved response from cache file "cache/53828f82f2e7534cb6626226e51c0106.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Philadelphia%2C+PA"
+2016-11-08 10:27:40,748 INFO osmnx Created GeoDataFrame with 1 row for query "Philadelphia, PA"
+2016-11-08 10:27:40,797 INFO osmnx Projected the GeoDataFrame "Philadelphia, PA" to UTM-18 in 0.05 seconds
+2016-11-08 10:27:55,450 INFO osmnx Configured osmnx
+2016-11-08 10:28:05,258 INFO osmnx Retrieved response from cache file "cache/53828f82f2e7534cb6626226e51c0106.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Philadelphia%2C+PA"
+2016-11-08 10:28:05,267 INFO osmnx Created GeoDataFrame with 1 row for query "Philadelphia, PA"
+2016-11-08 10:28:05,301 INFO osmnx Projected the GeoDataFrame "Philadelphia, PA" to UTM-18 in 0.03 seconds
+2016-11-08 10:28:15,712 INFO osmnx Begin plotting the graph...
+2016-11-08 10:28:32,010 INFO osmnx Saved the GeoDataFrame "Philadelphia, PA" as shapefile "data/pa-philadelphia"
+2016-11-08 10:28:32,031 INFO osmnx Projected the GeoDataFrame "Philadelphia, PA" to UTM-18 in 0.02 seconds
+2016-11-08 10:28:40,176 INFO osmnx Saved the GeoDataFrame "Philadelphia, PA" as shapefile "data/pa-philadelphia"
+2016-11-08 10:28:51,448 INFO osmnx Pausing 1.00 seconds before making API GET request
+2016-11-08 10:28:52,454 INFO osmnx Requesting https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Chalfont%2C+PA with timeout=30
+2016-11-08 10:28:53,377 INFO osmnx Downloaded 2.5KB from nominatim.openstreetmap.org in 0.92 seconds
+2016-11-08 10:28:53,378 INFO osmnx Saved response to cache file "cache/84b7d7df24ff0f347200ea9e9e4f310a.json"
+2016-11-08 10:28:53,380 INFO osmnx Created GeoDataFrame with 1 row for query "Chalfont, PA"
+2016-11-08 10:28:53,382 INFO osmnx Projected the GeoDataFrame "Chalfont, PA" to UTM-18 in 0.00 seconds
+2016-11-08 10:28:54,075 INFO osmnx Saved the GeoDataFrame "Chalfont, PA" as shapefile "data/pa-chalfont"
+2016-11-08 10:28:54,079 INFO osmnx Projected the GeoDataFrame "Chalfont, PA" to UTM-18 in 0.00 seconds
+2016-11-08 10:29:01,481 INFO osmnx Pausing 1.00 seconds before making API GET request
+2016-11-08 10:29:02,487 INFO osmnx Requesting https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Doylestown%2C+PA with timeout=30
+2016-11-08 10:29:02,979 INFO osmnx Downloaded 3.7KB from nominatim.openstreetmap.org in 0.49 seconds
+2016-11-08 10:29:02,980 INFO osmnx Saved response to cache file "cache/44aef0bb3db60fe8a42a6a8b46258d38.json"
+2016-11-08 10:29:02,982 INFO osmnx Created GeoDataFrame with 1 row for query "Doylestown, PA"
+2016-11-08 10:29:02,984 INFO osmnx Projected the GeoDataFrame "Doylestown, PA" to UTM-18 in 0.00 seconds
+2016-11-08 10:29:03,618 INFO osmnx Saved the GeoDataFrame "Doylestown, PA" as shapefile "data/pa-doylestown"
+2016-11-08 10:29:03,622 INFO osmnx Projected the GeoDataFrame "Doylestown, PA" to UTM-18 in 0.00 seconds
+2016-11-08 10:29:47,354 INFO osmnx Pausing 1.00 seconds before making API GET request
+2016-11-08 10:29:48,361 INFO osmnx Requesting https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Brittany+Farms-Highlands%2C+PA with timeout=30
+2016-11-08 10:29:48,813 INFO osmnx Downloaded 1.6KB from nominatim.openstreetmap.org in 0.45 seconds
+2016-11-08 10:29:48,815 INFO osmnx Saved response to cache file "cache/195de92704c27ae5e3e04932a5e695b0.json"
+2016-11-08 10:29:48,818 INFO osmnx Created GeoDataFrame with 1 row for query "Brittany Farms-Highlands, PA"
+2016-11-08 10:29:48,822 INFO osmnx Projected the GeoDataFrame "Brittany Farms-Highlands, PA" to UTM-18 in 0.00 seconds
+2016-11-08 10:29:49,886 INFO osmnx Saved the GeoDataFrame "Brittany Farms-Highlands, PA" as shapefile "data/pa-brittany_farms-highlands"
+2016-11-08 10:29:49,890 INFO osmnx Projected the GeoDataFrame "Brittany Farms-Highlands, PA" to UTM-18 in 0.00 seconds
+2016-11-08 10:30:35,849 INFO osmnx Retrieved response from cache file "cache/195de92704c27ae5e3e04932a5e695b0.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Brittany+Farms-Highlands%2C+PA"
+2016-11-08 10:30:35,852 INFO osmnx Created GeoDataFrame with 1 row for query "Brittany Farms-Highlands, PA"
+2016-11-08 10:30:44,710 INFO osmnx Retrieved response from cache file "cache/195de92704c27ae5e3e04932a5e695b0.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Brittany+Farms-Highlands%2C+PA"
+2016-11-08 10:30:44,712 INFO osmnx Created GeoDataFrame with 1 row for query "Brittany Farms-Highlands, PA"
+2016-11-08 10:30:44,715 INFO osmnx Projected the GeoDataFrame "Brittany Farms-Highlands, PA" to UTM-18 in 0.00 seconds
+2016-11-08 10:30:45,759 INFO osmnx Saved the GeoDataFrame "Brittany Farms-Highlands, PA" as shapefile "data/pa-brittany_farms-highlands"
+2016-11-08 10:30:45,762 INFO osmnx Projected the GeoDataFrame "Brittany Farms-Highlands, PA" to UTM-18 in 0.00 seconds
+2016-11-08 10:31:00,915 INFO osmnx Retrieved response from cache file "cache/195de92704c27ae5e3e04932a5e695b0.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Brittany+Farms-Highlands%2C+PA"
+2016-11-08 10:31:00,918 INFO osmnx Created GeoDataFrame with 1 row for query "Brittany Farms-Highlands, PA"
+2016-11-08 10:31:00,922 INFO osmnx Projected the GeoDataFrame "Brittany Farms-Highlands, PA" to UTM-18 in 0.00 seconds
+2016-11-08 10:31:01,494 INFO osmnx Saved the GeoDataFrame "Brittany Farms-Highlands, PA" as shapefile "data/pa-brittany_farms-highlands"
+2016-11-08 10:31:01,497 INFO osmnx Projected the GeoDataFrame "Brittany Farms-Highlands, PA" to UTM-18 in 0.00 seconds
+2016-11-08 10:32:50,165 INFO osmnx Retrieved response from cache file "cache/195de92704c27ae5e3e04932a5e695b0.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Brittany+Farms-Highlands%2C+PA"
+2016-11-08 10:32:50,167 INFO osmnx Created GeoDataFrame with 1 row for query "Brittany Farms-Highlands, PA"
+2016-11-08 10:32:50,169 INFO osmnx Retrieved response from cache file "cache/84b7d7df24ff0f347200ea9e9e4f310a.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Chalfont%2C+PA"
+2016-11-08 10:32:50,171 INFO osmnx Created GeoDataFrame with 1 row for query "Chalfont, PA"
+2016-11-08 10:32:50,173 INFO osmnx Retrieved response from cache file "cache/44aef0bb3db60fe8a42a6a8b46258d38.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Doylestown%2C+PA"
+2016-11-08 10:32:50,176 INFO osmnx Created GeoDataFrame with 1 row for query "Doylestown, PA"
+2016-11-08 10:32:50,185 INFO osmnx Finished creating GeoDataFrame with 3 rows from 3 queries
+2016-11-08 10:32:50,199 INFO osmnx Saved the GeoDataFrame "unnamed" as shapefile "data/unnamed"
+2016-11-08 10:32:50,226 INFO osmnx Projected the GeoDataFrame "unnamed" to UTM-18 in 0.02 seconds
+2016-11-08 10:33:10,640 INFO osmnx Retrieved response from cache file "cache/195de92704c27ae5e3e04932a5e695b0.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Brittany+Farms-Highlands%2C+PA"
+2016-11-08 10:33:10,642 INFO osmnx Created GeoDataFrame with 1 row for query "Brittany Farms-Highlands, PA"
+2016-11-08 10:33:10,645 INFO osmnx Retrieved response from cache file "cache/84b7d7df24ff0f347200ea9e9e4f310a.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Chalfont%2C+PA"
+2016-11-08 10:33:10,646 INFO osmnx Created GeoDataFrame with 1 row for query "Chalfont, PA"
+2016-11-08 10:33:10,648 INFO osmnx Pausing 1.00 seconds before making API GET request
+2016-11-08 10:33:11,651 INFO osmnx Requesting https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Peace+Valley%2C+PADoylestown%2C+PA with timeout=30
+2016-11-08 10:33:12,462 INFO osmnx Downloaded 0.0KB from nominatim.openstreetmap.org in 0.81 seconds
+2016-11-08 10:33:12,463 INFO osmnx Saved response to cache file "cache/2d43ea05923bae04032e46ada0f03c49.json"
+2016-11-08 10:33:12,463 WARNING osmnx OSM returned no results (or fewer than which_result) for query "Peace Valley, PADoylestown, PA"
+2016-11-08 10:33:12,465 INFO osmnx Finished creating GeoDataFrame with 2 rows from 3 queries
+2016-11-08 10:33:12,472 INFO osmnx Saved the GeoDataFrame "unnamed" as shapefile "data/unnamed"
+2016-11-08 10:33:12,476 INFO osmnx Projected the GeoDataFrame "unnamed" to UTM-18 in 0.00 seconds
+2016-11-08 10:33:20,168 INFO osmnx Retrieved response from cache file "cache/195de92704c27ae5e3e04932a5e695b0.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Brittany+Farms-Highlands%2C+PA"
+2016-11-08 10:33:20,170 INFO osmnx Created GeoDataFrame with 1 row for query "Brittany Farms-Highlands, PA"
+2016-11-08 10:33:20,172 INFO osmnx Retrieved response from cache file "cache/84b7d7df24ff0f347200ea9e9e4f310a.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Chalfont%2C+PA"
+2016-11-08 10:33:20,174 INFO osmnx Created GeoDataFrame with 1 row for query "Chalfont, PA"
+2016-11-08 10:33:20,176 INFO osmnx Retrieved response from cache file "cache/44aef0bb3db60fe8a42a6a8b46258d38.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Doylestown%2C+PA"
+2016-11-08 10:33:20,178 INFO osmnx Created GeoDataFrame with 1 row for query "Doylestown, PA"
+2016-11-08 10:33:20,182 INFO osmnx Finished creating GeoDataFrame with 3 rows from 3 queries
+2016-11-08 10:33:20,199 INFO osmnx Saved the GeoDataFrame "unnamed" as shapefile "data/unnamed"
+2016-11-08 10:33:20,209 INFO osmnx Projected the GeoDataFrame "unnamed" to UTM-18 in 0.01 seconds
+2016-11-08 10:34:12,679 INFO osmnx Retrieved response from cache file "cache/195de92704c27ae5e3e04932a5e695b0.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Brittany+Farms-Highlands%2C+PA"
+2016-11-08 10:34:12,681 INFO osmnx Created GeoDataFrame with 1 row for query "Brittany Farms-Highlands, PA"
+2016-11-08 10:34:12,683 INFO osmnx Pausing 1.00 seconds before making API GET request
+2016-11-08 10:34:13,688 INFO osmnx Requesting https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=New+Britain+Township%2C+PA with timeout=30
+2016-11-08 10:34:15,031 INFO osmnx Downloaded 5.1KB from nominatim.openstreetmap.org in 1.34 seconds
+2016-11-08 10:34:15,032 INFO osmnx Saved response to cache file "cache/614bc0c84c4e2ba605e9278ce5f232b3.json"
+2016-11-08 10:34:15,034 INFO osmnx Created GeoDataFrame with 1 row for query "New Britain Township, PA"
+2016-11-08 10:34:15,036 INFO osmnx Retrieved response from cache file "cache/84b7d7df24ff0f347200ea9e9e4f310a.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Chalfont%2C+PA"
+2016-11-08 10:34:15,038 INFO osmnx Created GeoDataFrame with 1 row for query "Chalfont, PA"
+2016-11-08 10:34:15,040 INFO osmnx Retrieved response from cache file "cache/44aef0bb3db60fe8a42a6a8b46258d38.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Doylestown%2C+PA"
+2016-11-08 10:34:15,041 INFO osmnx Created GeoDataFrame with 1 row for query "Doylestown, PA"
+2016-11-08 10:34:15,044 INFO osmnx Finished creating GeoDataFrame with 4 rows from 4 queries
+2016-11-08 10:34:15,054 INFO osmnx Saved the GeoDataFrame "unnamed" as shapefile "data/unnamed"
+2016-11-08 10:34:15,064 INFO osmnx Projected the GeoDataFrame "unnamed" to UTM-18 in 0.01 seconds
+2016-11-08 10:34:29,333 INFO osmnx Retrieved response from cache file "cache/614bc0c84c4e2ba605e9278ce5f232b3.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=New+Britain+Township%2C+PA"
+2016-11-08 10:34:29,336 INFO osmnx Created GeoDataFrame with 1 row for query "New Britain Township, PA"
+2016-11-08 10:34:29,338 INFO osmnx Retrieved response from cache file "cache/84b7d7df24ff0f347200ea9e9e4f310a.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Chalfont%2C+PA"
+2016-11-08 10:34:29,340 INFO osmnx Created GeoDataFrame with 1 row for query "Chalfont, PA"
+2016-11-08 10:34:29,342 INFO osmnx Retrieved response from cache file "cache/44aef0bb3db60fe8a42a6a8b46258d38.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Doylestown%2C+PA"
+2016-11-08 10:34:29,345 INFO osmnx Created GeoDataFrame with 1 row for query "Doylestown, PA"
+2016-11-08 10:34:29,351 INFO osmnx Finished creating GeoDataFrame with 3 rows from 3 queries
+2016-11-08 10:34:29,366 INFO osmnx Saved the GeoDataFrame "unnamed" as shapefile "data/unnamed"
+2016-11-08 10:34:29,385 INFO osmnx Projected the GeoDataFrame "unnamed" to UTM-18 in 0.02 seconds
+2016-11-08 10:36:28,321 INFO osmnx Retrieved response from cache file "cache/614bc0c84c4e2ba605e9278ce5f232b3.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=New+Britain+Township%2C+PA"
+2016-11-08 10:36:28,324 INFO osmnx Created GeoDataFrame with 1 row for query "New Britain Township, PA"
+2016-11-08 10:36:28,324 INFO osmnx Constructed place geometry polygon(s) to query API
+2016-11-08 10:36:28,336 INFO osmnx Projected the GeoDataFrame "geometry to project" to UTM-18 in 0.00 seconds
+2016-11-08 10:36:28,354 INFO osmnx Projected the GeoDataFrame "geometry to project" to EPSG 4326 in 0.00 seconds
+2016-11-08 10:36:28,361 INFO osmnx Projected the GeoDataFrame "geometry to project" to UTM-18 in 0.00 seconds
+2016-11-08 10:36:28,375 INFO osmnx Projected the GeoDataFrame "geometry to project" to EPSG 4326 in 0.01 seconds
+2016-11-08 10:36:28,382 INFO osmnx Requesting network data within polygon from API in 1 request(s)
+2016-11-08 10:36:29,084 INFO osmnx Pausing 0.00 seconds before making API POST request
+2016-11-08 10:36:29,084 INFO osmnx Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["area"!~"yes"]["highway"!~"proposed|construction|abandoned|platform|raceway"](poly:"40.28311727341290 -75.26764204776784 40.28345863880858 -75.26806305205639 40.28383171205770 -75.26843537324189 40.28423243988438 -75.26875496539607 40.28465646848534 -75.26901835527997 40.28509919081851 -75.26922268010938 40.28555579664540 -75.26936571869750 40.28602132478476 -75.26944591563418 40.28649071701006 -75.26946239823779 40.28742491829961 -75.26943157915973 40.28789677027556 -75.26938353538887 40.28836215756984 -75.26927110793500 40.28881594268115 -75.26909553659904 40.28925311608639 -75.26885875834283 40.28966885155196 -75.26856338595759 40.29005855942535 -75.26821267926400 40.29392161368239 -75.26432978912551 40.29421627328313 -75.26400650078294 40.29448872689117 -75.26365154391431 40.29518488325964 -75.26266354745165 40.29560757869421 -75.26223019268711 40.30358491923926 -75.25433618081034 40.30372296060828 -75.25419393687650 40.30504320149669 -75.25277799619339 40.30643817895273 -75.25146815557883 40.30659513085200 -75.25131388913313 40.30838950595592 -75.24946875638310 40.31004147653010 -75.24786675603315 40.31022460444017 -75.24767939017202 40.31130464952666 -75.24651431361218 40.31158634940980 -75.24618344077795 40.31191322699093 -75.24576572095749 40.31666563672871 -75.24057218630477 40.31696941428731 -75.24020804253583 40.31724643354274 -75.23980913708863 40.31749437366240 -75.23937881154053 40.31771115741068 -75.23892067082531 40.31789496856030 -75.23843855302778 40.31794557162049 -75.23828904574788 40.31810976520091 -75.23772816874373 40.31822935004983 -75.23714834990973 40.31830308079970 -75.23655562744469 40.31833018960701 -75.23595617400618 40.31831039415357 -75.23535623239152 40.31824390058836 -75.23476205048591 40.31813140137965 -75.23417981615751 40.31797406809943 -75.23361559277926 40.31779766289132 -75.23314025816546 40.33738221519871 -75.21226974816254 40.34123305013340 -75.20849063389822 40.34141827816745 -75.20829870496082 40.34372445443599 -75.20577740187788 40.35681402204477 -75.19253380866516 40.35688442041633 -75.19246108656520 40.36162831605355 -75.18745900029265 40.36195256954237 -75.18708195514365 40.36224756305289 -75.18666586678918 40.36251055832457 -75.18621459706524 40.36273911408854 -75.18573233452841 40.36333864869880 -75.18431947786362 40.36353133645935 -75.18380858628002 40.36368536369275 -75.18327574483406 40.36379928901800 -75.18272593970563 40.36387204631946 -75.18216431591118 40.36390295472896 -75.18159612913168 40.36389172500134 -75.18102669650187 40.36383846222284 -75.18046134682288 40.36374366482723 -75.17990537066505 40.36360821992881 -75.17936397082978 40.36343339501604 -75.17884221363508 40.36322082608385 -75.17834498148186 40.36297250231609 -75.17787692714622 40.35969523160160 -75.17229730498771 40.35967491766773 -75.17226298573534 40.35278156066681 -75.16070744553251 40.35275155170047 -75.16065770413041 40.34617500985917 -75.14987842465085 40.34482929560075 -75.14756605602047 40.34453680734264 -75.14711280879139 40.34421091782685 -75.14670031430107 40.34385493303841 -75.14633275649123 40.34347246421042 -75.14601386326771 40.34306739117710 -75.14574686869871 40.34264382300351 -75.14553448023180 40.34220605629228 -75.14537885126053 40.34175853159024 -75.14528155931829 40.34130578833823 -75.14524359011872 40.34085241882102 -75.14526532760331 40.34040302158487 -75.14534655009503 40.33996215479516 -75.14548643259488 40.33953429000742 -75.14568355519661 40.33912376682005 -75.14593591753193 40.33873474886871 -75.14624095909818 40.33797717655083 -75.14690498935643 40.33797063982428 -75.14691072970720 40.33646239507708 -75.14823768950956 40.33616661030000 -75.14852145680908 40.33222157192753 -75.15263925481052 40.33221699547006 -75.15264403768491 40.33045756816710 -75.15448521219446 40.32746871678106 -75.15746834827999 40.32744141410338 -75.15749581385724 40.32366042526155 -75.16132926453862 40.32112081074548 -75.16373518472132 40.32083555970880 -75.16402904170711 40.32056935874555 -75.16435196920827 40.31872547239723 -75.16677673868712 40.31813286082382 -75.16748118067014 40.31772577807452 -75.16769825941410 40.31738154116809 -75.16790427752071 40.31705176350435 -75.16814733300497 40.31673877483841 -75.16842570824544 40.31645178607261 -75.16870471724597 40.31615345646831 -75.16902146088437 40.31587688499238 -75.16937027811480 40.31562408565860 -75.16974862845085 40.31538209808197 -75.17014362117369 40.31531243103647 -75.17026031465932 40.31482147948395 -75.17110432754016 40.31299591054744 -75.17390790760047 40.31281428123249 -75.17420585044204 40.31243230138417 -75.17487583469115 40.31224236406026 -75.17523620639818 40.31207344819969 -75.17561401550040 40.31163547365295 -75.17668297100356 40.31148042300872 -75.17710010957936 40.31079146467236 -75.17915600872703 40.31074029132338 -75.17931501117181 40.31051030541346 -75.18005997283596 40.31050689044217 -75.18007106680945 40.31022204805293 -75.18099912083251 40.30993554202471 -75.18155160397184 40.30983379044484 -75.18175687459443 40.30923682388104 -75.18301783084591 40.30920055140465 -75.18309579115034 40.30896460316973 -75.18361188131139 40.30850335402582 -75.18306222480935 40.30813186151028 -75.18266478905690 40.30773009069284 -75.18232126948008 40.30750408321477 -75.18214978065697 40.30709755915382 -75.18187637897802 40.30667191029008 -75.18165821884419 40.30623152250965 -75.18149754712302 40.30578093348298 -75.18139601821456 40.30532478590234 -75.18135467704845 40.30486777964033 -75.18137394836502 40.30441462332322 -75.18145363238877 40.30396998581798 -75.18159290693674 40.30353844813253 -75.18179033593810 40.30312445622499 -75.18204388427515 40.30273227520757 -75.18235093879086 40.30236594541667 -75.18270833524520 40.29472600452665 -75.19098185475842 40.29533722822099 -75.18838708432334 40.29543120348221 -75.18801551201838 40.29617165140613 -75.18508885311066 40.29870991558547 -75.18238139907790 40.29903601209848 -75.18199746800937 40.29933194161432 -75.18157389683678 40.29959489267127 -75.18111470918677 40.29982236708667 -75.18062426721609 40.30001220370224 -75.18010723016374 40.30016259892695 -75.17956851007361 40.30027212388139 -75.17901322510916 40.30033973798112 -75.17844665090432 40.30036479882854 -75.17787417041409 40.30034706832008 -75.17730122274246 40.30028671490977 -75.17673325143532 40.30018431200777 -75.17617565273102 40.30004083252960 -75.17563372426159 40.29985763964727 -75.17511261469373 40.29963647383086 -75.17461727478890 40.29937943630410 -75.17415241034892 40.29798336482076 -75.17187076704359 40.29795691693994 -75.17182795600071 40.29717337711908 -75.17057173395025 40.29687947740226 -75.17014489046156 40.29655512300238 -75.16975749059044 40.29620340243810 -75.16941322259569 40.29582766476110 -75.16911536387879 40.29543148765557 -75.16886674979202 40.29501864336182 -75.16866974666253 40.29459306274952 -75.16852622928880 40.29415879788252 -75.16843756312235 40.29371998343237 -75.16840459130371 40.29328079730823 -75.16842762667414 40.29284542087792 -75.16850644883816 40.29241799915928 -75.16864030630276 40.29200260136039 -75.16882792367204 40.29160318214458 -75.16906751382655 40.29122354398838 -75.16935679497071 40.29086730099080 -75.16969301238404 40.28624189029608 -75.17452352666041 40.28619374367685 -75.17457451684103 40.28291658008847 -75.17809408885543 40.28280991187864 -75.17821231301707 40.28158832410828 -75.17960939781763 40.28039341236796 -75.18080148041287 40.28019822967286 -75.18100769334127 40.28014859326002 -75.18106319343632 40.27995038044435 -75.18111463261786 40.27955780283837 -75.18124066023323 40.27909041140613 -75.18142009579888 40.27864262555228 -75.18162604942280 40.27821392744868 -75.18189238830014 40.27803593299162 -75.18201839791629 40.27771136904143 -75.18227174075609 40.27740422207915 -75.18255972967148 40.27711665623652 -75.18288033506261 40.27696656293449 -75.18306243641545 40.27670731972811 -75.18340377887567 40.27647029205958 -75.18377162002577 40.27631809996585 -75.18402841467929 40.27604901741503 -75.18453526813714 40.27582206314277 -75.18507611890939 40.27563973213065 -75.18564502094397 40.27553603857976 -75.18602310040046 40.27540094178277 -75.18661054074943 40.27531343674649 -75.18721315430739 40.27527447500387 -75.18782438818131 40.27528324558423 -75.18836191549612 40.27188435592833 -75.19191234867581 40.26931195840053 -75.19445987277702 40.26923604099397 -75.19453673095110 40.26709579107011 -75.19675152044023 40.26584759753560 -75.19804300575063 40.26244761940323 -75.20145661192019 40.26236158061257 -75.20154518446539 40.25956456655668 -75.20449712848037 40.25472946078658 -75.20943418554539 40.25471085998615 -75.20945299505568 40.25437634068241 -75.20982680558785 40.25407138380614 -75.21024145777591 40.25379890339694 -75.21069298885932 40.25356150312973 -75.21117708383900 40.25336145144691 -75.21168911670588 40.25320065989329 -75.21222419463410 40.25308066486029 -75.21277720471720 40.25300261291367 -75.21334286280143 40.25296724984401 -75.21391576395077 40.25297491354501 -75.21449043406275 40.25302553078673 -75.21506138214316 40.25311861791504 -75.21562315274161 40.25325328547043 -75.21617037804843 40.25342824668213 -75.21669782915674 40.25364182975658 -75.21720046600086 40.25389199384331 -75.21767348549538 40.25708304289520 -75.22311796659955 40.26227788804584 -75.23199117076707 40.26812373263006 -75.24197717132475 40.27074242685768 -75.24656762053142 40.27163778413303 -75.24813729029944 40.27193334911348 -75.24859200938009 40.27428893122505 -75.25300053879029 40.27445361687921 -75.25328949753199 40.27823171533478 -75.25951195441401 40.27907569193394 -75.26102598981014 40.27919875218250 -75.26123661865395 40.28157913043211 -75.26512624442351 40.28174034620016 -75.26537521858010 40.28199148330160 -75.26574194856373 40.28244909769905 -75.26661576883839 40.28266705978515 -75.26699780000028 40.28290798334358 -75.26735554911740 40.28311727341290 -75.26764204776784");>;);out;'}"
+2016-11-08 10:36:31,878 INFO osmnx Downloaded 1,900.9KB from www.overpass-api.de in 2.79 seconds
+2016-11-08 10:36:32,116 INFO osmnx Saved response to cache file "cache/912bb93e0bb2871e54c80c637248a7da.json"
+2016-11-08 10:36:32,117 INFO osmnx Got all network data within polygon from API in 1 request(s) and 3.73 seconds
+2016-11-08 10:36:32,117 INFO osmnx Creating networkx graph from downloaded OSM data...
+2016-11-08 10:36:32,552 INFO osmnx Created graph with 15,893 nodes and 32,401 edges in 0.43 seconds
+2016-11-08 10:36:33,668 INFO osmnx Added edge lengths to graph in 1.12 seconds
+2016-11-08 10:36:35,129 INFO osmnx Identifying all nodes that lie outside the polygon...
+2016-11-08 10:36:37,247 INFO osmnx Created r-tree spatial index for 15,893 points in 1.74 seconds
+2016-11-08 10:36:39,011 INFO osmnx Identified 14,282 nodes inside polygon in 1.76 seconds
+2016-11-08 10:36:39,023 INFO osmnx Removed 1,611 nodes outside polygon in 0.01 seconds
+2016-11-08 10:36:39,043 INFO osmnx Begin topologically simplifying the graph...
+2016-11-08 10:36:41,145 INFO osmnx Identified 1,878 edge endpoints in 0.58 seconds
+2016-11-08 10:36:41,240 INFO osmnx Constructed all paths to simplify in 0.09 seconds
+2016-11-08 10:36:42,980 INFO osmnx Simplified graph (from 14,282 to 1,915 nodes and from 29,046 to 4,799 edges) in 1.74 seconds
+2016-11-08 10:36:43,454 INFO osmnx Identifying all nodes that lie outside the polygon...
+2016-11-08 10:36:43,745 INFO osmnx Created r-tree spatial index for 1,915 points in 0.18 seconds
+2016-11-08 10:36:44,026 INFO osmnx Identified 1,148 nodes inside polygon in 0.28 seconds
+2016-11-08 10:36:44,035 INFO osmnx Removed 767 nodes outside polygon in 0.01 seconds
+2016-11-08 10:36:44,040 INFO osmnx Removed 9 isolated nodes
+2016-11-08 10:36:44,267 INFO osmnx Graph was not connected, retained only the largest weakly connected component (1,020 of 1,139 total nodes) in 0.23 seconds
+2016-11-08 10:36:44,709 INFO osmnx Got the counts of undirected street segments incident to each intersection (before removing peripheral edges) in 0.43 seconds
+2016-11-08 10:36:44,720 INFO osmnx graph_from_polygon() returning graph with 1,020 nodes and 2,667 edges
+2016-11-08 10:36:44,748 INFO osmnx graph_from_place() returning graph with 1,020 nodes and 2,667 edges
+2016-11-08 10:36:45,136 INFO osmnx Created a GeoDataFrame from graph in 0.10 seconds
+2016-11-08 10:36:45,219 INFO osmnx Projected the GeoDataFrame "New Britain Township, PA_nodes" to UTM-18 in 0.08 seconds
+2016-11-08 10:36:49,715 INFO osmnx Projected the GeoDataFrame "New Britain Township, PA_edges" to UTM-18 in 4.49 seconds
+2016-11-08 10:36:49,760 INFO osmnx Extracted projected node geometries from GeoDataFrame in 0.04 seconds
+2016-11-08 10:36:55,516 INFO osmnx Rebuilt projected graph in 5.76 seconds
+2016-11-08 10:36:55,528 INFO osmnx Begin plotting the graph...
+2016-11-08 10:36:55,804 INFO osmnx Drew the graph edges in 0.20 seconds
+2016-11-08 10:36:56,275 INFO osmnx Showed the plot in 0.33 seconds
+2016-11-08 10:37:08,317 INFO osmnx Retrieved response from cache file "cache/195de92704c27ae5e3e04932a5e695b0.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Brittany+Farms-Highlands%2C+PA"
+2016-11-08 10:37:08,319 INFO osmnx Created GeoDataFrame with 1 row for query "Brittany Farms-Highlands, PA"
+2016-11-08 10:37:08,320 INFO osmnx Constructed place geometry polygon(s) to query API
+2016-11-08 10:37:08,325 INFO osmnx Projected the GeoDataFrame "geometry to project" to UTM-18 in 0.00 seconds
+2016-11-08 10:37:08,333 INFO osmnx Projected the GeoDataFrame "geometry to project" to EPSG 4326 in 0.00 seconds
+2016-11-08 10:37:08,342 INFO osmnx Projected the GeoDataFrame "geometry to project" to UTM-18 in 0.00 seconds
+2016-11-08 10:37:08,352 INFO osmnx Projected the GeoDataFrame "geometry to project" to EPSG 4326 in 0.00 seconds
+2016-11-08 10:37:08,355 INFO osmnx Requesting network data within polygon from API in 1 request(s)
+2016-11-08 10:37:08,634 INFO osmnx Pausing 0.00 seconds before making API POST request
+2016-11-08 10:37:08,634 INFO osmnx Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["area"!~"yes"]["highway"!~"proposed|construction|abandoned|platform|raceway"](poly:"40.26227788804584 -75.23199117076707 40.26256690074396 -75.23243711643816 40.26288838107472 -75.23284343598698 40.26323915711517 -75.23320611983598 40.26361576784288 -75.23352158877832 40.26401449727263 -75.23378672930731 40.26443141110992 -75.23399892435913 40.26486239556073 -75.23415607916391 40.26530319791464 -75.23425664195010 40.26574946850141 -75.23429961929538 40.26619680360748 -75.23428458597212 40.26664078892904 -75.23421168918787 40.26707704313292 -75.23408164717769 40.26750126109548 -75.23389574216016 40.26790925639265 -75.23365580772520 40.26829700262166 -75.23336421077619 40.26866067314595 -75.23302382820341 40.28233263022447 -75.21882997419843 40.28267058912084 -75.21844147530963 40.28297715477871 -75.21801085950491 40.28324926376870 -75.21754242927705 40.28348419694291 -75.21704086516324 40.28367960661968 -75.21651117896823 40.28383354005566 -75.21595866366872 40.28394445897012 -75.21538884050085 40.28401125492577 -75.21480740376047 40.28403326041191 -75.21422016386900 40.28401025551907 -75.21363298927517 40.28394247013802 -75.21305174777581 40.28383058166126 -75.21248224784229 40.28367570820969 -75.21193018054223 40.28361730290580 -75.21177275926919 40.28435434874869 -75.21088324257285 40.28465804997083 -75.21047964894471 40.28493064654246 -75.21003981616970 40.28516961564849 -75.20956781438544 40.28537274566273 -75.20906801159096 40.28553815662612 -75.20854503321326 40.28566431765474 -75.20800371928510 40.28575006111601 -75.20744907963166 40.28579459344119 -75.20688624748084 40.28579750247444 -75.20632043192865 40.28575876128959 -75.20575686969995 40.28567872843963 -75.20520077665307 40.28555814463644 -75.20465729947772 40.28539812589148 -75.20413146803514 40.28520015318126 -75.20362814878271 40.28496605873356 -75.20315199971481 40.28469800906137 -75.20270742723844 40.28439848490216 -75.20229854538309 40.28407025824887 -75.20192913772316 40.28404816344695 -75.20190659578020 40.28378702615766 -75.20163477910832 40.28356992963163 -75.20142244328788 40.28348812653827 -75.20134734619410 40.28333943158714 -75.20121653669764 40.28311022341234 -75.20102344637122 40.28279893875072 -75.20078374073763 40.28247393964432 -75.20057739001510 40.28215473120029 -75.20039501043343 40.28180501379146 -75.20021747414032 40.28144519358348 -75.20007855776478 40.28108508776533 -75.19996058607805 40.28062661363194 -75.19981040026072 40.28054730360915 -75.19978541485685 40.28022809882012 -75.19968884031618 40.27991656358220 -75.19960957358963 40.27976106195323 -75.19957738655000 40.27938559265358 -75.19952063265966 40.27904999097064 -75.19948846149190 40.27881478024707 -75.19947397128416 40.27803717900942 -75.19945263860862 40.27794225060999 -75.19945134075068 40.27719382911943 -75.19945140559732 40.27677525010967 -75.19944436172570 40.27629390033519 -75.19938287208744 40.27623069503372 -75.19937538452615 40.27569510759655 -75.19931690052969 40.27498739511042 -75.19921730729273 40.27491376202205 -75.19920774342768 40.27458575753734 -75.19916868992910 40.27445820252493 -75.19900834793734 40.27393977949760 -75.19830054113069 40.27380554230915 -75.19812484449116 40.27359753285565 -75.19786384540255 40.27359196967693 -75.19785687700329 40.27313567391220 -75.19728630800397 40.27292357537780 -75.19700800221112 40.27257358978734 -75.19663291529382 40.27219652809963 -75.19630559817438 40.27179620061449 -75.19602935765766 40.27137665267032 -75.19580698425401 40.27094212375421 -75.19564072401035 40.27049700465316 -75.19553225584988 40.27004579307892 -75.19548267464816 40.26959304821595 -75.19549248021471 40.26914334465151 -75.19556157228983 40.26870122615403 -75.19568925160554 40.26827115976620 -75.19587422699729 40.26785749067679 -75.19611462849343 40.26746439832711 -75.19640802624814 40.26709585419442 -75.19675145512497 40.26584759753560 -75.19804300575063 40.26244761940323 -75.20145661192019 40.26236158061257 -75.20154518446539 40.25956456655668 -75.20449712848037 40.25472946078658 -75.20943418554539 40.25471085998615 -75.20945299505568 40.25437634068241 -75.20982680558785 40.25407138380614 -75.21024145777591 40.25379890339694 -75.21069298885932 40.25356150312973 -75.21117708383900 40.25336145144691 -75.21168911670588 40.25320065989329 -75.21222419463410 40.25308066486029 -75.21277720471720 40.25300261291367 -75.21334286280143 40.25296724984401 -75.21391576395077 40.25297491354501 -75.21449043406275 40.25302553078673 -75.21506138214316 40.25311861791504 -75.21562315274161 40.25325328547043 -75.21617037804843 40.25342824668213 -75.21669782915674 40.25364182975658 -75.21720046600086 40.25389199384331 -75.21767348549538 40.25708304289520 -75.22311796659955 40.26227788804584 -75.23199117076707");>;);out;'}"
+2016-11-08 10:37:09,946 INFO osmnx Downloaded 506.4KB from www.overpass-api.de in 1.31 seconds
+2016-11-08 10:37:10,016 INFO osmnx Saved response to cache file "cache/7c5725fe1f305525a22cd0ad592ae7af.json"
+2016-11-08 10:37:10,016 INFO osmnx Got all network data within polygon from API in 1 request(s) and 1.66 seconds
+2016-11-08 10:37:10,016 INFO osmnx Creating networkx graph from downloaded OSM data...
+2016-11-08 10:37:10,201 INFO osmnx Created graph with 4,065 nodes and 8,362 edges in 0.18 seconds
+2016-11-08 10:37:10,443 INFO osmnx Added edge lengths to graph in 0.24 seconds
+2016-11-08 10:37:10,716 INFO osmnx Identifying all nodes that lie outside the polygon...
+2016-11-08 10:37:11,265 INFO osmnx Created r-tree spatial index for 4,065 points in 0.46 seconds
+2016-11-08 10:37:11,652 INFO osmnx Identified 3,423 nodes inside polygon in 0.39 seconds
+2016-11-08 10:37:11,656 INFO osmnx Removed 642 nodes outside polygon in 0.00 seconds
+2016-11-08 10:37:11,661 INFO osmnx Begin topologically simplifying the graph...
+2016-11-08 10:37:12,183 INFO osmnx Identified 668 edge endpoints in 0.09 seconds
+2016-11-08 10:37:12,202 INFO osmnx Constructed all paths to simplify in 0.02 seconds
+2016-11-08 10:37:12,562 INFO osmnx Simplified graph (from 3,423 to 693 nodes and from 7,038 to 1,820 edges) in 0.36 seconds
+2016-11-08 10:37:12,682 INFO osmnx Identifying all nodes that lie outside the polygon...
+2016-11-08 10:37:12,758 INFO osmnx Created r-tree spatial index for 693 points in 0.06 seconds
+2016-11-08 10:37:12,876 INFO osmnx Identified 433 nodes inside polygon in 0.12 seconds
+2016-11-08 10:37:12,882 INFO osmnx Removed 260 nodes outside polygon in 0.00 seconds
+2016-11-08 10:37:12,885 INFO osmnx Removed 0 isolated nodes
+2016-11-08 10:37:13,136 INFO osmnx Graph was not connected, retained only the largest weakly connected component (382 of 433 total nodes) in 0.25 seconds
+2016-11-08 10:37:13,281 INFO osmnx Got the counts of undirected street segments incident to each intersection (before removing peripheral edges) in 0.14 seconds
+2016-11-08 10:37:13,284 INFO osmnx graph_from_polygon() returning graph with 382 nodes and 1,072 edges
+2016-11-08 10:37:13,291 INFO osmnx graph_from_place() returning graph with 382 nodes and 1,072 edges
+2016-11-08 10:37:13,418 INFO osmnx Created a GeoDataFrame from graph in 0.04 seconds
+2016-11-08 10:37:13,451 INFO osmnx Projected the GeoDataFrame "Brittany Farms-Highlands, PA_nodes" to UTM-18 in 0.03 seconds
+2016-11-08 10:37:14,104 INFO osmnx Projected the GeoDataFrame "Brittany Farms-Highlands, PA_edges" to UTM-18 in 0.65 seconds
+2016-11-08 10:37:14,121 INFO osmnx Extracted projected node geometries from GeoDataFrame in 0.02 seconds
+2016-11-08 10:37:15,581 INFO osmnx Rebuilt projected graph in 1.46 seconds
+2016-11-08 10:37:15,596 INFO osmnx Begin plotting the graph...
+2016-11-08 10:37:15,716 INFO osmnx Drew the graph edges in 0.06 seconds
+2016-11-08 10:37:16,403 INFO osmnx Showed the plot in 0.68 seconds
+2016-11-08 10:54:37,022 INFO osmnx Configured osmnx
+2016-11-08 10:54:38,275 INFO osmnx Retrieved response from cache file "cache/195de92704c27ae5e3e04932a5e695b0.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Brittany+Farms-Highlands%2C+PA"
+2016-11-08 10:54:38,277 INFO osmnx Created GeoDataFrame with 1 row for query "Brittany Farms-Highlands, PA"
+2016-11-08 10:54:38,281 INFO osmnx Projected the GeoDataFrame "Brittany Farms-Highlands, PA" to UTM-18 in 0.00 seconds
+2016-11-08 10:54:39,978 INFO osmnx Saved the GeoDataFrame "Brittany Farms-Highlands, PA" as shapefile "data/pa-brittany_farms-highlands"
+2016-11-08 10:54:39,982 INFO osmnx Projected the GeoDataFrame "Brittany Farms-Highlands, PA" to UTM-18 in 0.00 seconds
+2016-11-08 10:54:42,233 INFO osmnx Retrieved response from cache file "cache/614bc0c84c4e2ba605e9278ce5f232b3.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=New+Britain+Township%2C+PA"
+2016-11-08 10:54:42,235 INFO osmnx Created GeoDataFrame with 1 row for query "New Britain Township, PA"
+2016-11-08 10:54:42,237 INFO osmnx Retrieved response from cache file "cache/84b7d7df24ff0f347200ea9e9e4f310a.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Chalfont%2C+PA"
+2016-11-08 10:54:42,239 INFO osmnx Created GeoDataFrame with 1 row for query "Chalfont, PA"
+2016-11-08 10:54:42,241 INFO osmnx Retrieved response from cache file "cache/44aef0bb3db60fe8a42a6a8b46258d38.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Doylestown%2C+PA"
+2016-11-08 10:54:42,244 INFO osmnx Created GeoDataFrame with 1 row for query "Doylestown, PA"
+2016-11-08 10:54:42,249 INFO osmnx Finished creating GeoDataFrame with 3 rows from 3 queries
+2016-11-08 10:54:42,261 INFO osmnx Saved the GeoDataFrame "unnamed" as shapefile "data/unnamed"
+2016-11-08 10:54:42,280 INFO osmnx Projected the GeoDataFrame "unnamed" to UTM-18 in 0.02 seconds
+2016-11-08 10:54:46,801 INFO osmnx Retrieved response from cache file "cache/195de92704c27ae5e3e04932a5e695b0.json" for URL "https://nominatim.openstreetmap.org/search?format=json&limit=1&dedupe=0&polygon_geojson=1&q=Brittany+Farms-Highlands%2C+PA"
+2016-11-08 10:54:46,804 INFO osmnx Created GeoDataFrame with 1 row for query "Brittany Farms-Highlands, PA"
+2016-11-08 10:54:46,805 INFO osmnx Constructed place geometry polygon(s) to query API
+2016-11-08 10:54:46,810 INFO osmnx Projected the GeoDataFrame "geometry to project" to UTM-18 in 0.00 seconds
+2016-11-08 10:54:46,818 INFO osmnx Projected the GeoDataFrame "geometry to project" to EPSG 4326 in 0.00 seconds
+2016-11-08 10:54:46,827 INFO osmnx Projected the GeoDataFrame "geometry to project" to UTM-18 in 0.01 seconds
+2016-11-08 10:54:46,839 INFO osmnx Projected the GeoDataFrame "geometry to project" to EPSG 4326 in 0.00 seconds
+2016-11-08 10:54:46,842 INFO osmnx Requesting network data within polygon from API in 1 request(s)
+2016-11-08 10:54:46,927 INFO osmnx Retrieved response from cache file "cache/7c5725fe1f305525a22cd0ad592ae7af.json" for URL "http://www.overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A180%5D%3B%28way%5B%22highway%22%5D%5B%22area%22%21~%22yes%22%5D%5B%22highway%22%21~%22proposed%7Cconstruction%7Cabandoned%7Cplatform%7Craceway%22%5D%28poly%3A%2240.26227788804584+-75.23199117076707+40.26256690074396+-75.23243711643816+40.26288838107472+-75.23284343598698+40.26323915711517+-75.23320611983598+40.26361576784288+-75.23352158877832+40.26401449727263+-75.23378672930731+40.26443141110992+-75.23399892435913+40.26486239556073+-75.23415607916391+40.26530319791464+-75.23425664195010+40.26574946850141+-75.23429961929538+40.26619680360748+-75.23428458597212+40.26664078892904+-75.23421168918787+40.26707704313292+-75.23408164717769+40.26750126109548+-75.23389574216016+40.26790925639265+-75.23365580772520+40.26829700262166+-75.23336421077619+40.26866067314595+-75.23302382820341+40.28233263022447+-75.21882997419843+40.28267058912084+-75.21844147530963+40.28297715477871+-75.21801085950491+40.28324926376870+-75.21754242927705+40.28348419694291+-75.21704086516324+40.28367960661968+-75.21651117896823+40.28383354005566+-75.21595866366872+40.28394445897012+-75.21538884050085+40.28401125492577+-75.21480740376047+40.28403326041191+-75.21422016386900+40.28401025551907+-75.21363298927517+40.28394247013802+-75.21305174777581+40.28383058166126+-75.21248224784229+40.28367570820969+-75.21193018054223+40.28361730290580+-75.21177275926919+40.28435434874869+-75.21088324257285+40.28465804997083+-75.21047964894471+40.28493064654246+-75.21003981616970+40.28516961564849+-75.20956781438544+40.28537274566273+-75.20906801159096+40.28553815662612+-75.20854503321326+40.28566431765474+-75.20800371928510+40.28575006111601+-75.20744907963166+40.28579459344119+-75.20688624748084+40.28579750247444+-75.20632043192865+40.28575876128959+-75.20575686969995+40.28567872843963+-75.20520077665307+40.28555814463644+-75.20465729947772+40.28539812589148+-75.20413146803514+40.28520015318126+-75.20362814878271+40.28496605873356+-75.20315199971481+40.28469800906137+-75.20270742723844+40.28439848490216+-75.20229854538309+40.28407025824887+-75.20192913772316+40.28404816344695+-75.20190659578020+40.28378702615766+-75.20163477910832+40.28356992963163+-75.20142244328788+40.28348812653827+-75.20134734619410+40.28333943158714+-75.20121653669764+40.28311022341234+-75.20102344637122+40.28279893875072+-75.20078374073763+40.28247393964432+-75.20057739001510+40.28215473120029+-75.20039501043343+40.28180501379146+-75.20021747414032+40.28144519358348+-75.20007855776478+40.28108508776533+-75.19996058607805+40.28062661363194+-75.19981040026072+40.28054730360915+-75.19978541485685+40.28022809882012+-75.19968884031618+40.27991656358220+-75.19960957358963+40.27976106195323+-75.19957738655000+40.27938559265358+-75.19952063265966+40.27904999097064+-75.19948846149190+40.27881478024707+-75.19947397128416+40.27803717900942+-75.19945263860862+40.27794225060999+-75.19945134075068+40.27719382911943+-75.19945140559732+40.27677525010967+-75.19944436172570+40.27629390033519+-75.19938287208744+40.27623069503372+-75.19937538452615+40.27569510759655+-75.19931690052969+40.27498739511042+-75.19921730729273+40.27491376202205+-75.19920774342768+40.27458575753734+-75.19916868992910+40.27445820252493+-75.19900834793734+40.27393977949760+-75.19830054113069+40.27380554230915+-75.19812484449116+40.27359753285565+-75.19786384540255+40.27359196967693+-75.19785687700329+40.27313567391220+-75.19728630800397+40.27292357537780+-75.19700800221112+40.27257358978734+-75.19663291529382+40.27219652809963+-75.19630559817438+40.27179620061449+-75.19602935765766+40.27137665267032+-75.19580698425401+40.27094212375421+-75.19564072401035+40.27049700465316+-75.19553225584988+40.27004579307892+-75.19548267464816+40.26959304821595+-75.19549248021471+40.26914334465151+-75.19556157228983+40.26870122615403+-75.19568925160554+40.26827115976620+-75.19587422699729+40.26785749067679+-75.19611462849343+40.26746439832711+-75.19640802624814+40.26709585419442+-75.19675145512497+40.26584759753560+-75.19804300575063+40.26244761940323+-75.20145661192019+40.26236158061257+-75.20154518446539+40.25956456655668+-75.20449712848037+40.25472946078658+-75.20943418554539+40.25471085998615+-75.20945299505568+40.25437634068241+-75.20982680558785+40.25407138380614+-75.21024145777591+40.25379890339694+-75.21069298885932+40.25356150312973+-75.21117708383900+40.25336145144691+-75.21168911670588+40.25320065989329+-75.21222419463410+40.25308066486029+-75.21277720471720+40.25300261291367+-75.21334286280143+40.25296724984401+-75.21391576395077+40.25297491354501+-75.21449043406275+40.25302553078673+-75.21506138214316+40.25311861791504+-75.21562315274161+40.25325328547043+-75.21617037804843+40.25342824668213+-75.21669782915674+40.25364182975658+-75.21720046600086+40.25389199384331+-75.21767348549538+40.25708304289520+-75.22311796659955+40.26227788804584+-75.23199117076707%22%29%3B%3E%3B%29%3Bout%3B"
+2016-11-08 10:54:46,928 INFO osmnx Got all network data within polygon from API in 1 request(s) and 0.08 seconds
+2016-11-08 10:54:46,928 INFO osmnx Creating networkx graph from downloaded OSM data...
+2016-11-08 10:54:47,016 INFO osmnx Created graph with 4,065 nodes and 8,362 edges in 0.09 seconds
+2016-11-08 10:54:47,339 INFO osmnx Added edge lengths to graph in 0.32 seconds
+2016-11-08 10:54:47,619 INFO osmnx Identifying all nodes that lie outside the polygon...
+2016-11-08 10:54:48,186 INFO osmnx Created r-tree spatial index for 4,065 points in 0.50 seconds
+2016-11-08 10:54:48,652 INFO osmnx Identified 3,423 nodes inside polygon in 0.46 seconds
+2016-11-08 10:54:48,658 INFO osmnx Removed 642 nodes outside polygon in 0.00 seconds
+2016-11-08 10:54:48,665 INFO osmnx Begin topologically simplifying the graph...
+2016-11-08 10:54:49,110 INFO osmnx Identified 668 edge endpoints in 0.08 seconds
+2016-11-08 10:54:49,128 INFO osmnx Constructed all paths to simplify in 0.02 seconds
+2016-11-08 10:54:49,483 INFO osmnx Simplified graph (from 3,423 to 693 nodes and from 7,038 to 1,820 edges) in 0.35 seconds
+2016-11-08 10:54:49,623 INFO osmnx Identifying all nodes that lie outside the polygon...
+2016-11-08 10:54:49,698 INFO osmnx Created r-tree spatial index for 693 points in 0.06 seconds
+2016-11-08 10:54:49,755 INFO osmnx Identified 433 nodes inside polygon in 0.06 seconds
+2016-11-08 10:54:49,759 INFO osmnx Removed 260 nodes outside polygon in 0.00 seconds
+2016-11-08 10:54:49,761 INFO osmnx Removed 0 isolated nodes
+2016-11-08 10:54:49,847 INFO osmnx Graph was not connected, retained only the largest weakly connected component (382 of 433 total nodes) in 0.09 seconds
+2016-11-08 10:54:50,032 INFO osmnx Got the counts of undirected street segments incident to each intersection (before removing peripheral edges) in 0.18 seconds
+2016-11-08 10:54:50,036 INFO osmnx graph_from_polygon() returning graph with 382 nodes and 1,072 edges
+2016-11-08 10:54:50,043 INFO osmnx graph_from_place() returning graph with 382 nodes and 1,072 edges
+2016-11-08 10:54:50,146 INFO osmnx Created a GeoDataFrame from graph in 0.04 seconds
+2016-11-08 10:54:50,179 INFO osmnx Projected the GeoDataFrame "Brittany Farms-Highlands, PA_nodes" to UTM-18 in 0.03 seconds
+2016-11-08 10:54:50,763 INFO osmnx Projected the GeoDataFrame "Brittany Farms-Highlands, PA_edges" to UTM-18 in 0.58 seconds
+2016-11-08 10:54:50,780 INFO osmnx Extracted projected node geometries from GeoDataFrame in 0.02 seconds
+2016-11-08 10:54:52,254 INFO osmnx Rebuilt projected graph in 1.47 seconds
+2016-11-08 10:54:52,258 INFO osmnx Begin plotting the graph...
+2016-11-08 10:54:52,358 INFO osmnx Drew the graph edges in 0.05 seconds
+2016-11-08 10:54:52,590 INFO osmnx Showed the plot in 0.22 seconds
